@@ -5,9 +5,7 @@
   /**
    * Message
    */
-  var message_en = 'We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies';
-  var message_de = 'We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies';
-  var message = [ message_en, message_de ].join(' ');
+  var message = 'Diese Website verwendet Cookies – nähere Informationen dazu und zu Ihren Rechten als Benutzer finden Sie in unserer Datenschutzerklärung am Ende der Seite. Klicken Sie auf „Ich stimme zu“, um Cookies zu akzeptieren und direkt unsere Website besuchen zu können.';
   var buttonText = 'Ok'
 
   /**
